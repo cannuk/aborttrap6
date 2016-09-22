@@ -252,6 +252,7 @@ footer {
 
   div.wrapper {
     width:auto;
+    text-align: center;
     margin:0;
   }
 
@@ -262,7 +263,7 @@ footer {
   }
 
   header {
-    padding-right:320px;
+    
   }
 
   section {
